@@ -87,7 +87,7 @@ waybackurls fetches all old urls known for a domain
  
 View Page Source- see when it was last updated
 
-Subdomain bruteforcing
+## Subdomain bruteforcing
   amass enum -brute -d <domain> -src
  ShuffleDNS also does bruteforcing, it is a wrapper around massDNS
  all.txt is a good file to use with bruteforcing
