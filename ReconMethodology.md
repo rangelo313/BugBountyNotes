@@ -37,7 +37,7 @@ ex: "by Office Depot LLC All rights reserved" www.officedepot.com
 
 You can use shodan to continuously spider infrastructure on the internet.
 
-
+## Burp Pro
 Linked Discovery with Burpsuite Pro
 1.) Scope (ex: office) accumulate outside of scope data (No)
 2.) Crawl these domains. 
