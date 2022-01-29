@@ -114,4 +114,7 @@ View Page Source- see when it was last updated
  ## XSS Hunter 
   Create a new active scan, and load your xss hunter payload and append to everything (every insertion point). 
   No response- and now you have a blind xss scan. This should be added under Burp Bounty.
+ 
+ ## ffuf
+ fast web fuzzer built in go
   
