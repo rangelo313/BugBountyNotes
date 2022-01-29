@@ -32,7 +32,7 @@ You can also use this in the command line with getrelationship.py
 
 Google-Fu....
 copyright policy
-ex: "by Office Depot LLC All rights reserved" www.officedepot.com
+ex: "by <companyname> LLC All rights reserved" <companyname.com>
 
 
 You can use shodan to continuously spider infrastructure on the internet.
