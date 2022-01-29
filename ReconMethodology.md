@@ -98,12 +98,12 @@ View Page Source- see when it was last updated
   cat urls.txt | python3 favreak.py -o output
   shodan search org:"Target" http.favicon.hash:<number> --fields ip str,port --separator " " | awk '{print $1": "$2}'
   
-  Port Analysis
+## Port Analysis
   dnmassan
   one limitation of masscan is that it only scans IP addresses
   You can write your own simple converter sccript or use something like dnsmassscan
   
-  Frameworks
+ ## Frameworks
   bountyRecon
   offhoruscoding/recon
   Sambal0x/Recon-tools
@@ -111,7 +111,7 @@ View Page Source- see when it was last updated
   yourbuddy25/hunter
   venom26/ultimate_recon.sh
   
-  XSS Hunter->
+ ## XSS Hunter 
   Create a new active scan, and load your xss hunter payload and append to everything (every insertion point). 
   No response- and now you have a blind xss scan. This should be added under Burp Bounty.
   
