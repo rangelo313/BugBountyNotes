@@ -104,12 +104,12 @@ View Page Source- see when it was last updated
   You can write your own simple converter sccript or use something like dnsmassscan
   
  ## Frameworks
-  bountyRecon
-  offhoruscoding/recon
-  Sambal0x/Recon-tools
-  AutoRecon
-  yourbuddy25/hunter
-  venom26/ultimate_recon.sh
+  * bountyRecon
+  * offhoruscoding/recon
+  * Sambal0x/Recon-tools
+  * AutoRecon
+  * yourbuddy25/hunter
+  * venom26/ultimate_recon.sh
   
  ## XSS Hunter 
   Create a new active scan, and load your xss hunter payload and append to everything (every insertion point). 
